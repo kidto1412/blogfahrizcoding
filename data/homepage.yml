@@ -140,7 +140,7 @@ testimonial:
 
 # client slider
 # clientSlider:
-#   enable : true
+#   enable : false
 #   item:
 #     - logo : "images/clients-logo/client-logo-1.png"
 #       URL : "#"

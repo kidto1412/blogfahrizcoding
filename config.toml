@@ -49,6 +49,11 @@ summaryLength = "10"
   name = "Web Developer"
   URL = "webdev"
   weight = 5
+  
+  [[menu.main]]
+  name = "PHP"
+  URL = "php"
+  weight = 6
 
 
 [params]
