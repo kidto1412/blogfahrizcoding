@@ -17,7 +17,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Hallo nama saya fahriz dimasqy saya adalah seorang Programmer || Web Developer Saya mempunyai pengalaman PRAKERIN di PT Qtasnim Digital Teknologi dibagian peoduct & solusi dan informasi yang dimana saya menggunakan bahasa pemrograman java untuk membuat sebuah aplikasi dekstop."
+  content : "Hallo nama saya fahriz dimasqy saya adalah seorang Programmer || Web Developer Saya mempunyai pengalaman PRAKERIN di PT Qtasnim Digital Teknologi dibagian product & solusi dan informasi yang dimana saya menggunakan bahasa pemrograman java untuk membuat sebuah aplikasi dekstop."
   button:
     btnText : "know more"
     URL : "/about"
