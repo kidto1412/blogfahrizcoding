@@ -3,13 +3,13 @@ banner:
   title : "Selamat Datang <br> Di Fahriz Coding <br>"
   socialLinks:
     - icon : "ti-facebook"
-      URL : "#"
+      URL : "https://www.facebook.com/fahriz.dimasqy.75"
       
     - icon : "ti-instagram"
-      URL : "#"
+      URL : "https://instagram.com/dimasqyfahriz"
       
-    - icon : "ti-dribbble"
-      URL : "#"
+    - icon : "ti-github"
+      URL : "https://github.com/kidto1412/"
       
     - icon : "ti-twitter"
       URL : "#"
