@@ -37,7 +37,7 @@ summaryLength = "10"
   
   [[menu.main]]
   name = "C++"
-  URL = "blog"
+  URL = "c++"
   weight = 3
   
   [[menu.main]]
