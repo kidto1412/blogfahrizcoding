@@ -1,7 +1,7 @@
 ---
 title: "PHP part 1 : Pengenalan PHP"
 date: 2019-05-12T12:14:34+06:00
-image: "images/blog/episode1.jpg"
+image: "images/blog/c++.jpg"
 description: "Pengenalan PHP."
 author: "Fahriz"
 type: "post"
@@ -36,10 +36,10 @@ Baik, sekarang kita akan coba membuat program Hello World.
 
 Silahkan buka teks editor kemudian ketik kode berikut:
 
-#include <iostream>
-using namespace std;
+>#include <iostream>
+<using namespace std;
 
-int main(){
-    cout << "Hello World!" << endl;
-    return 0;
-}
+<int main(){
+<    cout << "Hello World!" << endl;
+<   return 0;
+<}
