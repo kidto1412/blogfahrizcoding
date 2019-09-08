@@ -28,7 +28,7 @@ Pada bahasa C, kita tidak bisa membuat class sedangkan pada C++ kita bisa membua
 Alat-alat untuk Membuat Program C++
 Sebenarny ada dua alat yang harus kita persiapkan:
 
-Teks Editor: sebagai tempat menulis kode.
+Teks Editor = sebagai tempat menulis kode.
 Kompilator g++: Program yang menerjemahkan bahasa C++ menjadi bahasa mesin (executable).
 
 Membuat Program C++ Pertama
@@ -39,7 +39,7 @@ kita buka dev c++ klik new project => console aplication
 image: "images/blog/new project konsole.jpg"
 
 
-kemudian ketik kode berikut:
+kemudian ketik kode berikut =
  image: "images/blog/source.jpg"
  #include <iostream>
  using namespace std;
