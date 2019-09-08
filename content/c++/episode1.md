@@ -36,10 +36,10 @@ Baik, sekarang kita akan coba membuat program Hello World.
 
 Silahkan buka teks editor kemudian ketik kode berikut:
 
->#include <iostream>
->using namespace std;
+> #include <iostream>
+> using namespace std;
 
->int main(){
+> int main(){
 >    cout << "Hello World!" << endl;
 >   return 0;
->}
+> }
