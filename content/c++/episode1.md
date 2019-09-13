@@ -39,8 +39,7 @@ kita buka dev c++ klik new project => console aplication
 image: "images/blog/new project konsole.jpg"
 
 
-kemudian ketik kode berikut =
- image: "images/blog/source.jpg"
+kemudian ketik kode berikut
  ``#include <iostream>
  using namespace std;
 
