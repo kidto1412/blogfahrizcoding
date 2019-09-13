@@ -40,13 +40,13 @@ image: "images/blog/new project konsole.jpg"
 
 
 kemudian ketik kode berikut
- ``#include <iostream>
+ `#include <iostream>
  using namespace std;
 
  int main(){
     cout << "Hello World!" << endl;
    return 0;
- }  ``
+ }  `
 
 Lalu klik Execute compile and run
 image: "images/blog/execute.jpg"
