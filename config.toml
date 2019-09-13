@@ -11,7 +11,7 @@ summaryLength = "10"
   # CSS Plugins
   [[params.plugins.css]]
   URL = "plugins/bootstrap/bootstrap.min.css"
-  [params.plugins.css]]
+  [[params.plugins.css]]
   URL = "plugins/bootstrap/prism.css"
   [[params.plugins.css]]
   URL = "plugins/slick/slick.css"
