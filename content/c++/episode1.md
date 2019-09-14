@@ -59,9 +59,6 @@ image: "images/blog/execute.jpg"
 maka hasilnya akan seperti ini:
 image: "images/blog/hasil.jpg"
 
- 
-
-
 
 Bedah Kode
 Waktunya saya menjelaskan arti dan maksud dari kode program di atas.
