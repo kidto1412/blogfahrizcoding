@@ -7,6 +7,25 @@ author: "Fahriz"
 type: "post"
 ---
 
+HTML sintax
+
+```html
+
+<h1>test</h1>
+
+```
+
+```html
+
+<h1>test</h1>
+
+```
+
+```html
+
+<h1>test</h1>
+
+```
 ```html
 
 <h1>test</h1>
