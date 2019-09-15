@@ -168,6 +168,7 @@ Kita bisa mengubah nama tipe data sendiri dengan perintah typedef.
 Membuat tipe data baru di C++
 
 >Contohnya:
+
 ```C++
 typedef int angka; 
 ```
