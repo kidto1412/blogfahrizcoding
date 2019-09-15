@@ -47,26 +47,26 @@ Variabel adalah sebuah nama lokasi penyimpanan di dalam memori.
 Sementara tipe data adalah jenis data yang akan disimpan di dalam variabel.
 
 Macam-macam tipe data di C++ dapat dilihat dari tabel berikut.
-```table
-Nama Tipe Data	Ukuran dalam Memori	Rentang Nilai
-char	1byte	-127 sampai 127 atau 0 sampai 255
-unsigned char	1byte	0 sampai 255
-signed char	1byte	-127 sampai 127
-int	4bytes	-2147483648 sampai 2147483647
-unsigned int	4bytes	0 sampai 4294967295
-signed int	4bytes	-2147483648 sampai 2147483647
-short int	2bytes	-32768 sampai 32767
-unsigned short int	Range	0 sampai 65,535
-signed short int	Range	-32768 sampai 32767
-long int	4bytes	-2,147,483,648 sampai 2,147,483,647
-signed long int	4bytes	same as long int
-unsigned long int	4bytes	0 sampai 4,294,967,295
-float	4bytes	+/- 3.4e +/- 38 (~7 digits)
-double	8bytes	+/- 1.7e +/- 308 (~15 digits)
-long double	8bytes	+/- 1.7e +/- 308 (~15 digits)
-wchar_t	2 or 4 bytes	1 wide character
-boolean	4bytes	true atau false
-```
+
+| Nama              | Tipe Data	Ukuran dalam Memori	 |          Rentang Nilai                |
+|  char	            | 1byte	                         | -127 sampai 127 atau 0 sampai 255    |
+|unsigned char	     | 1byte	                         |            0 sampai 255              |
+|signed char	       | 1byte                          | |        	-127 sampai 127            |
+|int	               | 4bytes	                        |  -2147483648 sampai 2147483647       |
+|unsigned int	      | 4bytes	                        |       0 sampai 4294967295            |
+|signed int	        | 4bytes                         |   	-2147483648 sampai 2147483647     |
+|short int	         | 2bytes	                        |        -32768 sampai 32767           |
+|unsigned short int	| Range                          |         	0 sampai 65,535             |
+|signed short int	  | Range	                         |        -32768 sampai 32767           |
+|long int	          | 4bytes                         | 	-2,147,483,648 sampai 2,147,483,647 |
+|signed long int    |	4bytes                         |         	same as long int            |
+|unsigned long int  |	4bytes                         |    	0 sampai 4,294,967,295           |
+|float	             | 4bytes	                        |    +/- 3.4e +/- 38 (~7 digits)       |
+|double	            | 8bytes                         |   	+/- 1.7e +/- 308 (~15 digits)     |
+|long double	       | 8bytes	                        |   +/- 1.7e +/- 308 (~15 digits)      |
+|wchar_t            |	2 or 4 bytes	                  |         1 wide character             |
+|boolean	           | 4bytes	                        |           true atau false            |
+
 Cara Membuat Variabel di C++
 Pembuatan variabel atau deklarasi variabel di C++ dapat kita lakukan seperti berikut ini:
 
