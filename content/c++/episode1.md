@@ -14,14 +14,14 @@ Bisa menggunakan Borland c++, Codeblocks, Codelite, Dev c++, dan sebagainya.
 Namun, yang akan kita bahas di sini adalah menggunakan teks editor Devc++
 kalian bisa mendownload disini : https://dev-c.soft32.com/
 
-Pengertian Bahasa Pemrograman C++
+**Pengertian Bahasa Pemrograman C++**
 Bahasa pemrograman C++ merupakan bahasa pengembangan dari bahasa C.
 
-Apa bedanya C++ dengan C?
+**Apa bedanya C++ dengan C?**
 
 C++ memiliki fitur yang lebih banyak dari C.
 
-Contohnya:
+**Contohnya:**
 
 Pada bahasa C, kita tidak bisa membuat class sedangkan pada C++ kita bisa membuatnya.
 
@@ -50,7 +50,7 @@ kemudian ketik kode berikut
  ```
  Maka Akan Muncul
  ```markdown
- hello world
+ **hello world**
  ```
 
 Bedah Kode
