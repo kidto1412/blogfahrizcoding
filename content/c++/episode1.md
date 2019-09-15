@@ -34,7 +34,7 @@ Kompilator g++: Program yang menerjemahkan bahasa C++ menjadi bahasa mesin (exec
 Membuat Program C++ Pertama
 Baik, sekarang kita akan coba membuat program Hello World.
 
->Pertama
+Pertama
 kita buka dev c++ klik new project => console aplication
 image: "images/blog/new project konsole.jpg"
 
