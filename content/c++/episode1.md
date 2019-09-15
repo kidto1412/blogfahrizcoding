@@ -50,7 +50,7 @@ kemudian ketik kode berikut
  }
  ```
  Maka Akan Muncul
- ```cmd
+ ```markdown
  hello world
  ```
 
