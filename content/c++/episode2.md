@@ -7,27 +7,11 @@ author: "Fahriz"
 type: "post"
 ---
 
-HTML sintax
 
-```html
-
-<h1>test</h1>
-
-```
-
-```html
-
-<h1>test</h1>
-
-```
-
-```html
-
-<h1>test</h1>
-
-```
-```html
-
-<h1>test</h1>
-
+```java
+class HelloWorld{
+    public static void main(String[] argumen){
+        System.out.println("Hello World!");
+    }
+}
 ```
