@@ -119,16 +119,23 @@ int main(){
   cin >> jenis_kelamin;
  
   // --- proses output ---
-  cout << "Salam kenal, " << nama << " Sekarang engkau berusia ";
-  cout << umur << " dan kau berjenis kelamin "<< jenis_kelamin;
+  cout << "Salam kenal, " << nama << " Sekarang kamu berumur ";
+  cout << umur << " dan kamu berjenis kelamin "<< jenis_kelamin;
  
   return 0;
 
 }
 ```
 
-Setelah itu lakukan kompilasi dan eksekusi programnya.
-
+Setelah itu lakukan compile & run(jalankan kodo) programnya maka akan menghasilkan seperti ini.
+```Cmd
+Siapakah namamu?
+jawab : fahriz
+Berapa umurmu?
+jawab : 18
+Jenis kelamin [L/P] : L
+Salam Kenal, fahriz sekarang kamu berumur 18 dan kamu berjenis kelamin L
+```
 Kompilasi dan eksekusi Program C++
 Mudah bukan?
 
