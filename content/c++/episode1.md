@@ -50,7 +50,7 @@ kemudian ketik kode berikut
  ```
  Maka Akan Muncul
  ```markdown
- **hello world**
+ hello world
  ```
 
 Bedah Kode
