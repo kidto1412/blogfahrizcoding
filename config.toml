@@ -10,8 +10,6 @@ pygmentsOptions = "linenos=table"
 pygmentsCodefences = true
 pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
-pygmentsUseClassic=true
-pygmentsUseClassic=true
 
 
 [params.publicCDN]        # load these files from public cdn                          # 启用公共CDN，需自行定义
