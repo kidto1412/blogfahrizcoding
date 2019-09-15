@@ -132,7 +132,7 @@ Setelah itu lakukan kompilasi dan eksekusi programnya.
 Kompilasi dan eksekusi Program C++
 Mudah bukan?
 
-**Bedah Kode :
+**Bedah Kode**
 
 Pertama dimulai dari membuat variabel.
 
