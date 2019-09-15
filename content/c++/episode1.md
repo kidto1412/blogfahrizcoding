@@ -49,16 +49,10 @@ kemudian ketik kode berikut
    return 0;
  }
  ```
- 
- ```html
-<h1> </h1>
-```
-Lalu klik Execute compile and run
-image: "images/blog/execute.jpg"
-
-maka hasilnya akan seperti ini:
-image: "images/blog/hasil.jpg"
-
+ Maka Akan Muncul
+ ```cmd
+ hello world
+ ```
 
 Bedah Kode
 Waktunya saya menjelaskan arti dan maksud dari kode program di atas.
