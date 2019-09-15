@@ -175,6 +175,7 @@ typedef int angka;
 Artinya, tipe data int (integer) akan kita buat namanya menjadi angka.
 
 Lalu, untuk menggunakannya kita bisa tulis seperti ini:
+
 ```C++
 angka umur;
 ```
