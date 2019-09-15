@@ -65,9 +65,9 @@ Maksud dari kode di atas adalah mendeklarasikan fungsi apa saja yang akan kita g
 
 Contohnya:
 
-<Karena kita membutuhkan fungsi cout untuk menampilkan teks ke layar, maka kita harus mengimpor fungsi tersebut dari <iostream>.
+>Karena kita membutuhkan fungsi cout untuk menampilkan teks ke layar, maka kita harus mengimpor fungsi tersebut dari <iostream>.
 
-<Fungsi cout berada dalam namespace std.
+>Fungsi cout berada dalam namespace std.
 
 Maka kita membutuhkan kode berikut:
 
@@ -100,9 +100,9 @@ cout << "Hello World!" << endl;
 ```
 Perintah cout adalah perintah untuk menampilkan teks ke layar.
 
-Tunggu dulu, apa itu endl?
+>Tunggu dulu, apa itu endl?
 
-endl (endline) fungsinya untuk membuat baris baru.
+>endl (endline) fungsinya untuk membuat baris baru.
 
 Contoh:
 ```C++
