@@ -7,6 +7,7 @@ author: "Fahriz"
 type: "post"
 ---
 
+> To be or not to be, that is the question.
 
 ```java
 class HelloWorld{
