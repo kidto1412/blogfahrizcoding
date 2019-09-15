@@ -48,7 +48,8 @@ Sementara tipe data adalah jenis data yang akan disimpan di dalam variabel.
 
 Macam-macam tipe data di C++ dapat dilihat dari tabel berikut.
 
-| Nama              | Tipe Data	Ukuran dalam Memori	 |          Rentang Nilai                |
+| Nama              | Tipe Data	Ukuran dalam Memori	 |          Rentang Nilai               |
+|-------------------|--------------------------------|--------------------------------------|
 |  char	            | 1byte	                         | -127 sampai 127 atau 0 sampai 255    |
 |unsigned char	     | 1byte	                         |            0 sampai 255              |
 |signed char	       | 1byte                          | |        	-127 sampai 127            |
