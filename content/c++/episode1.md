@@ -135,3 +135,7 @@ int main(){
 }
 ```
 Maka harus ada nilai kembalian berupa integer. Nol (0) adalah salah satu nilai integer
+
+**Selanjutnya Kalian akan mempelajari bagaimana caranya menulis variable dan tipe data di C++**
+[Episode 2 Belajar Pemrograman C++: Mengenal Variabel dan Tipe Data
+](https://fahrizcoding.netlify.com/c++/episode2/)
