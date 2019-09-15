@@ -1,5 +1,5 @@
 ---
-title: "Episode 1 Membuat Program Pertama C++"
+title: "Episode 2 Mengenal Tipe data dan Varibale Di C++"
 date: 2019-05-12T12:14:34+06:00
 image: "images/blog/c++.jpg"
 description: "Membuat Program Pertama C++."
