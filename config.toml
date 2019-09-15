@@ -5,6 +5,12 @@ googleAnalytics = "UA-118308800-4"
 theme = "kross-hugo-portfolio-template"
 summaryLength = "10"
 
+# Syntax highlighting by Chroma. NOTE: Don't enable `highlightInClient` and `chroma` at the same time!
+pygmentsOptions = "linenos=table"
+pygmentsCodefences = true
+pygmentsUseClasses = true
+pygmentsCodefencesGuessSyntax = true
+
 # Plugins
 [params.plugins]
 
