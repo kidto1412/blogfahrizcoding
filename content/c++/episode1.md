@@ -108,14 +108,15 @@ Contoh:
 ```C++
 cout << "Hello" << endl;
 cout << "World!" << endl;
-Akan menghasilkan output:
 ```
+
+Akan menghasilkan output:
 ```CMD
 Hello
 World!
-Sedangkan tanpa endl:
 ```
 
+Sedangkan tanpa endl:
 ```C++
 cout << "Hello";
 cout << "World!";
@@ -133,4 +134,4 @@ int main(){
     ...
 }
 ```
-Maka harus ada nilai kembalian berupa integer. Nol (0) adalah salah satu nilai intege
+Maka harus ada nilai kembalian berupa integer. Nol (0) adalah salah satu nilai integer
