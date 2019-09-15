@@ -68,27 +68,30 @@ Macam-macam tipe data di C++ dapat dilihat dari tabel berikut.
 | wchar_t                |	2 or 4 bytes	                   | 1 wide character                    |
 | boolean	               | 4bytes	                         | true atau false                     |
 
-Cara Membuat Variabel di C++
+**Cara Membuat Variabel di C++**
 Pembuatan variabel atau deklarasi variabel di C++ dapat kita lakukan seperti berikut ini:
-
+```C++
 string nama;
 int umur;
 char jenis_kelamin;
-Tipe datanya ditulis terlebih dahulu, lalu diikuti dengan nama variabelnya.
+```
+>Tipe datanya ditulis terlebih dahulu, lalu diikuti dengan nama variabelnya.
 
 Variabel-variabel di atas akan menyimpan nilai null (kosong), karena belum kita isi.
 
 Kita juga dapat membuat variabel dengan mengisinya langsung.
 
 Contoh:
-
-string nama = "Petani Kode";
-float tinggi = 172.43;
+```C++
+string nama = "Fahriz Coding";
+float tinggi = 169.43;
 Untuk lebih jelasnya, mari kita coba praktekkan dalam program.
+```
 
-Membuat Porgram C++ dengan Variabel dan Tipe Data
-Silahkan buat sebuah file baru bernama biodata.cpp, kemudian isi dengan kode berikut:
+>Membuat Porgram C++ dengan Variabel dan Tipe Data
+>Silahkan buat sebuah file baru bernama biodata.cpp, kemudian isi dengan kode berikut:
 
+```C++
 #include <iostream>
 
 using namespace std;
@@ -122,39 +125,45 @@ int main(){
   return 0;
 
 }
+```
+
 Setelah itu lakukan kompilasi dan eksekusi programnya.
 
 Kompilasi dan eksekusi Program C++
 Mudah bukan?
 
-Jelaskan donk program di atas!
-
-Baik saya akan jelaskan.
+**Bedah Kode : **
 
 Pertama dimulai dari membuat variabel.
 
+```C++
 string nama;
 int umur;
 char jenis_kelamin;
+```
+
 Pada baris kode tersebut, kita membuat tiga buah variabel dengan tipe data yang berbeda-beda.
 
 Lalu kita mengisi nilainya berdasarkan input yang diberikan dari keyboard dengan perintah cin.
-
+```C++
 cin >> umur;
 cin >> jenis_kelamin;
-Khusus untuk tipe data string, kita menggunakan fungsi getline() untuk mengambil satu baris nilai yang diinputkan.
-
+```
+>Khusus untuk tipe data string, kita menggunakan fungsi getline() untuk mengambil satu baris nilai yang diinputkan.
+```C++
 getline(cin,nama);
+```
 Terakhir kita menampilkan isi variabelnya dengan perintah cout.
 
 Mengubah Nama Tipe Data
 Kita bisa mengubah nama tipe data sendiri dengan perintah typedef.
 
 Membuat tipe data baru di C++
-Contohnya:
 
-typedef int angka; 
-Artinya, tipe data int (integer) akan kita buat namanya menjadi angka.
+>Contohnya:
+
+>typedef int angka; 
+>Artinya, tipe data int (integer) akan kita buat namanya menjadi angka.
 
 Lalu, untuk menggunakannya kita bisa tulis seperti ini:
 
