@@ -19,4 +19,4 @@ ilmu pengetahuan, ‘pena ’ dan ‘catatan’ digunakan sebagaisarana untuk me
 harus mengajarkan danmemelihara orang lain dengan pengetahuan mereka.
 >Sumber:
 >( https://www.coursehero.com/file/41421201/Rovidatul-Hikmah-Tanjungdocx/)
-•	
+* Test
