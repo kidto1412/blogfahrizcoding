@@ -1,10 +1,5 @@
 ## Tugas 1 - Resume
 
-
-Nama	: Fahriz Dimasqy
-NIM	: 1197050037
-Kelas	: C
-
 * ICT sudah digambarkan sejak masamasa awal kemunculan agama Islam dan diikuti pada proses perjalanan kehidupan Rasulullah SAW. 
 terutama ketika menjalani proses pembelajaran konsep-konsep agama Islam saat menerima wahyu. Beberapa sinyal teknologi kreatif 
 tentang kelahiran ICT di kemudian hari merupakan tonggak kekuatan agama ini yang perlu dikaji dan dikembangkan oleh umatnya.
