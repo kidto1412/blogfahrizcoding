@@ -8,7 +8,7 @@ Kelas	: C
 * ICT sudah digambarkan sejak masamasa awal kemunculan agama Islam dan diikuti pada proses perjalanan kehidupan Rasulullah SAW. 
 terutama ketika menjalani proses pembelajaran konsep-konsep agama Islam saat menerima wahyu. Beberapa sinyal teknologi kreatif 
 tentang kelahiran ICT di kemudian hari merupakan tonggak kekuatan agama ini yang perlu dikaji dan dikembangkan oleh umatnya.
-    * Sumber:
+   * Sumber:
       1. (https://pwmu.co/160981/10/04/surat-al-alaq-1-5-wahyu-pertama-tentang-pentingnya-literasi/)
       2. ( https://media.neliti.com/media/publications/157322-ID-integrasi-ict-dalam-pendidikan-islam-sua.pdf). 
 
