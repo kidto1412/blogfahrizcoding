@@ -5,8 +5,6 @@ Nama	: Fahriz Dimasqy
 NIM	: 1197050037
 Kelas	: C
 
-#### The Concept of Computer in the First Revelation, The Significant of the Pen and the Record in Human Life, dan Man and Knowledge: Input, Process and Output.
-
 * ICT sudah digambarkan sejak masamasa awal kemunculan agama Islam dan diikuti pada proses perjalanan kehidupan Rasulullah SAW. 
 terutama ketika menjalani proses pembelajaran konsep-konsep agama Islam saat menerima wahyu. Beberapa sinyal teknologi kreatif 
 tentang kelahiran ICT di kemudian hari merupakan tonggak kekuatan agama ini yang perlu dikaji dan dikembangkan oleh umatnya.
