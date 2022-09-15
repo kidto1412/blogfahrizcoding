@@ -15,5 +15,5 @@ harus mengajarkan danmemelihara orang lain dengan pengetahuan mereka.
 
 Referensi:
 > (https://pwmu.co/160981/10/04/surat-al-alaq-1-5-wahyu-pertama-tentang-pentingnya-literasi/)
-> (https://media.neliti.com/media/publications/157322-ID-integrasi-ict-dalam-pendidikan-islam-sua.pdf).  
+> (https://media.neliti.com/media/publications/157322-ID-integrasi-ict-dalam-pendidikan-islam-sua.pdf)
 > ( https://www.coursehero.com/file/41421201/Rovidatul-Hikmah-Tanjungdocx/)
