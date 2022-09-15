@@ -10,6 +10,7 @@ terutama ketika menjalani proses pembelajaran konsep-konsep agama Islam saat men
 tentang kelahiran ICT di kemudian hari merupakan tonggak kekuatan agama ini yang perlu dikaji dan dikembangkan oleh umatnya.
 
 > (https://pwmu.co/160981/10/04/surat-al-alaq-1-5-wahyu-pertama-tentang-pentingnya-literasi/)
+
 > (https://media.neliti.com/media/publications/157322-ID-integrasi-ict-dalam-pendidikan-islam-sua.pdf). 
 
 
