@@ -1,4 +1,10 @@
-## Tugas 1 - Resume
+---
+title: "Tugas 1 - Resume"
+image: "images/blog/ict1.jpg"
+description: "Pengenalan PHP."
+author: "Fahriz"
+type: "post"
+---
 
 * ICT sudah digambarkan sejak masamasa awal kemunculan agama Islam dan diikuti pada proses perjalanan kehidupan Rasulullah SAW. 
 terutama ketika menjalani proses pembelajaran konsep-konsep agama Islam saat menerima wahyu. Beberapa sinyal teknologi kreatif 
