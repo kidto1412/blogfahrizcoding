@@ -1,6 +1,6 @@
 ---
 title: "Tugas 1 - Resume"
-image: "images/blog/ict1.jpg"
+image: "images/blog/ict1.png"
 description: "Pengenalan PHP."
 author: "Fahriz"
 type: "post"
